@@ -1,6 +1,6 @@
 import cv2
 
-img =cv2.imread('Bride.jpg')
+img =cv2.imread('name of the image you want to open.jpg') #Image to be saved in the same folder as of code file else give the location of the image
 
 cv2.imshow('Output image',img)
 
